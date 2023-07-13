@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
